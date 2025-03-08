@@ -1,4 +1,9 @@
 # 汇总40个国内外ChatGPT(4o/4.0/3.5)镜像网站（2025年3月最新）
+
+> 更新时间：2025年3月9日
+>
+> 整理作者：Cailailai
+
 ## GPT镜像网址
 
 [songshugpt.com](http://songshugpt.com)-国内直接使用，注册赠送积分稳定长久
