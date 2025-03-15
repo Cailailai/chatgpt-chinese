@@ -1,12 +1,12 @@
-# 汇总40个国内外ChatGPT(4o/4.0/3.5)镜像网站（2025年3月最新）
+# 汇总40个国内外ChatGPT(GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3)镜像网站（2025年3月最新）
 
-> 更新时间：2025年3月13日
+> 更新时间：2025年3月16日
 >
 > 整理作者：Cailailai
 
 ## GPT镜像网址
 
-[songshugpt.com](http://songshugpt.com)-国内直接使用，注册赠送积分稳定长久
+[songshugpt.com](http://songshugpt.com)-国内直接使用，注册赠送积分稳定长久，支持GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3
 
 [gptdog](http://gptdog.online) - 国内直接使用，支持3.5/4.0
 
