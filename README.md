@@ -1,6 +1,6 @@
 # 汇总40个国内外ChatGPT(GPT-4o、GPT-o1、GPT-o3、Deepseek、Grok3)镜像网站（2025年3月最新）
 
-> 更新时间：2025年3月26日
+> 更新时间：2025年3月28日
 >
 > 整理作者：Cailailai
 
